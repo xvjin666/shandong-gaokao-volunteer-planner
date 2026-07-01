@@ -1,0 +1,135 @@
+{
+  "province": "山东省",
+  "exam_type": "夏季高考普通类",
+  "authority": "山东省教育招生考试院",
+  "sources": [
+    {
+      "source_id": "sdzk_2026_summer_score_rank",
+      "year": 2026,
+      "kind": "夏季高考文化成绩一分一段表",
+      "page_url": "https://www.sdzk.cn/NewsInfo.aspx?NewsID=7258",
+      "attachment_url": "https://www.sdzk.cn/Floadup/file/20260625/6391799529165570082629463.xls",
+      "local_path": "data/raw/sdzk/sdzk_2026_summer_score_rank.xls",
+      "processed_path": "data/processed/sdzk/sdzk_2026_summer_score_rank.csv",
+      "published_at": "2026-06-25",
+      "status": "confirmed"
+    },
+    {
+      "source_id": "sdzk_2025_summer_score_rank",
+      "year": 2025,
+      "kind": "夏季高考文化成绩一分一段表",
+      "page_url": "https://www.sdzk.cn/NewsInfo.aspx?NewsID=6943",
+      "attachment_url": "https://www.sdzk.cn/Floadup/file/20250625/6388646133710894671069456.xls",
+      "published_at": "2025-06-25",
+      "status": "confirmed"
+    },
+    {
+      "source_id": "sdzk_2024_summer_score_rank",
+      "year": 2024,
+      "kind": "夏季高考文化成绩一分一段表",
+      "page_url": "https://www.sdzk.cn/NewsInfo.aspx?NewsID=6577",
+      "attachment_url": "https://www.sdzk.cn/Floadup/file/20240625/6385492724297110442689837.xls",
+      "published_at": "2024-06-25",
+      "status": "confirmed"
+    },
+    {
+      "source_id": "sdzk_2023_summer_score_rank",
+      "year": 2023,
+      "kind": "夏季高考文化成绩一分一段表",
+      "page_url": "https://www.sdzk.cn/NewsInfo.aspx?NewsID=6212",
+      "attachment_url": "https://www.sdzk.cn/Floadup/file/20230625/6382330466178390033845468.xls",
+      "published_at": "2023-06-25",
+      "status": "confirmed"
+    },
+    {
+      "source_id": "sdzk_2025_regular_batch_round1投档",
+      "year": 2025,
+      "kind": "普通类常规批第1次志愿投档情况表",
+      "page_url": "https://www.sdzk.cn/NewsInfo.aspx?NewsID=6996",
+      "attachment_url": "https://www.sdzk.cn/Floadup/file/20250719/6388855130412530367357143.xls",
+      "published_at": "2025-07-19",
+      "status": "confirmed"
+    },
+    {
+      "source_id": "sdzk_2024_regular_batch_round1投档",
+      "year": 2024,
+      "kind": "普通类常规批第1次志愿投档情况表",
+      "page_url": "https://www.sdzk.cn/NewsInfo.aspx?NewsID=6656",
+      "attachment_url": "https://www.sdzk.cn/Floadup/file/20240719/6385700532268895241675882.xls",
+      "published_at": "2024-07-19",
+      "status": "confirmed"
+    },
+    {
+      "source_id": "sdzk_2023_regular_batch_round1投档",
+      "year": 2023,
+      "kind": "普通类常规批第1次志愿投档情况表",
+      "page_url": "https://www.sdzk.cn/NewsInfo.aspx?NewsID=6279",
+      "attachment_url": "https://www.sdzk.cn/Floadup/file/20230719/6382538122655052185031609.xls",
+      "published_at": "2023-07-19",
+      "status": "confirmed"
+    },
+    {
+      "source_id": "sdzk_2026_policy_implementation",
+      "year": 2026,
+      "kind": "山东省2026年普通高等学校考试招生（夏季高考）工作实施办法",
+      "page_url": "https://www.sdzk.cn/NewsInfo.aspx?NewsID=7200",
+      "attachment_url": null,
+      "published_at": "2026-05-18",
+      "status": "confirmed"
+    },
+    {
+      "source_id": "sdzk_2026_policy_qa",
+      "year": 2026,
+      "kind": "山东省普通高校招生考试政策百问百答（2026版）",
+      "page_url": "https://www.sdzk.cn/NewsInfo.aspx?NewsID=7201",
+      "attachment_url": null,
+      "published_at": "2026-05-18",
+      "status": "confirmed"
+    },
+    {
+      "source_id": "sdzk_2026_admission_schedule",
+      "year": 2026,
+      "kind": "普通高校招生录取工作进程表",
+      "page_url": "https://www.sdzk.cn/NewsInfo.aspx?NewsID=7253",
+      "attachment_url": null,
+      "published_at": "2026-06-24",
+      "status": "confirmed"
+    },
+    {
+      "source_id": "sdzk_2026_admission_opinion",
+      "year": 2026,
+      "kind": "普通高等学校招生录取工作意见",
+      "page_url": "https://www.sdzk.cn/NewsInfo.aspx?NewsID=7251",
+      "attachment_url": "https://www.sdzk.cn/Floadup/file/20260623/6391783638356163522045779.docx",
+      "published_at": "2026-06-23",
+      "status": "confirmed"
+    },
+    {
+      "source_id": "sdzk_2026_volunteer_four_steps",
+      "year": 2026,
+      "kind": "高考志愿填报四部曲",
+      "page_url": "https://www.sdzk.cn/NewsInfo.aspx?NewsID=7244",
+      "attachment_url": null,
+      "published_at": "2026-06-22",
+      "status": "confirmed"
+    },
+    {
+      "source_id": "sdzk_2026_score_lines",
+      "year": 2026,
+      "kind": "夏季高考各类别分数线",
+      "page_url": "https://www.sdzk.cn/NewsInfo.aspx?NewsID=7256",
+      "attachment_url": "https://www.sdzk.cn/Floadup/file/20260625/6391799576812677817426225.pdf",
+      "published_at": "2026-06-25",
+      "status": "confirmed"
+    },
+    {
+      "source_id": "sdzk_2026_admission_plan",
+      "year": 2026,
+      "kind": "普通高校分专业招生计划",
+      "page_url": "https://www.sdzk.cn/NewsInfo.aspx?NewsID=7268",
+      "attachment_url": "https://www.sdzk.cn/Floadup/file/20260627/6391815298192132651279477.docx",
+      "published_at": "2026-06-27",
+      "status": "confirmed"
+    }
+  ]
+}

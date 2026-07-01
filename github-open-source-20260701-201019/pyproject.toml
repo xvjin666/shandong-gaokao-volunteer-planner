@@ -1,0 +1,25 @@
+[project]
+name = "shandong-gaokao-decision"
+version = "0.1.0"
+description = "Evidence-based Shandong Gaokao volunteer planning decision engine."
+requires-python = ">=3.9"
+license = "MIT"
+dependencies = []
+
+[project.optional-dependencies]
+excel = [
+  "pandas>=2.0",
+  "openpyxl>=3.1",
+  "xlrd>=2.0",
+]
+web = [
+  "fastapi>=0.110",
+  "uvicorn>=0.27",
+]
+test = [
+  "pytest>=8.0",
+]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
